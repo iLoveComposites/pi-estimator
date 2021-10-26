@@ -5,7 +5,7 @@
 
  int main() {
 
-         int attempts=1000;
+         int attempts=10000000;
          int tries=0;
          int inside=0;
          double ratio=0;
